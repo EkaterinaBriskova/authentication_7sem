@@ -1,6 +1,5 @@
 ---
-title: "README.qmd"
-format: 
+format:
   md:
     output-file: README.md
 editor: visual
@@ -148,8 +147,9 @@ head(unique_ips_periodic_requests)
 
 10. Определите местоположение (страну, город) и организацию-провайдера для топ-10 доменов. Для этого можно использовать сторонние сервисы, например . https://ip2geolocation.com
 
+```{=html}
 <!-- -->
-
+```
 1)  tools.google.com
 
 -   IP-адрес 142.250.186.142
