@@ -1,10 +1,11 @@
 ---
-title: "Исследование информации о состоянии беспроводных сетей"
-format: 
-    md:
-        output-file: README.md
-engine: knitr
+format:
+  md:
+    output-file: README.md
+editor: visual
 ---
+
+# Практическая работа №5
 
 ## Цель работы
 
